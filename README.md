@@ -9,11 +9,11 @@
 ## Description
 A store built in a development bootcamp that has been refactored to use Redux instead of Global state and Context API. The main changes are found in switching the state and dispatch variables in the components.
 ## Deployment Link
-https://cryptic-reef-29264.herokuapp.com/
+https://aqueous-everglades-90890.herokuapp.com/
 
 ## Installation
 
-To run this application, please do the following installation:
+To run this application, please do the following installation in the root, server, and client folders:
 
 `
 npm i
